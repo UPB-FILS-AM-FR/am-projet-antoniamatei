@@ -1,12 +1,26 @@
-# Your Project Name
+# Crawler robot controlled with Arduino
 
 | | |
 |-|-|
-|`Author` | Your full name
+|`Author` | Matei Maria Ioana Antonia 
 
-## Description
+## Components of the crawler robot:
+1. Arduino board
+2. Tracked chassis
+3. Motor driver
+4. Batteries
+5. Sensors
+6. Expansion board
+7. Connecting wires
+ appointment
 
-## Motivation
+## 1. Environment Setup: I will start by installing the Arduino IDE on the computer so that I can write and upload the code to the Arduino board.
+2. Connecting the Components: I will make sure that all the components are correctly connected: the motors to the motor driver, the driver to the Arduino, and the sensors to the appropriate ports.
+3. Writing the Code:
+   - Initialization: Defining the pins used for motors and sensors.
+   - Motor Control: Writing functions to control the speed and direction of motors.
+   - Reading Sensors: Implementing code to read data from sensors and make decisions based on it (for example, avoiding obstacles).
+4. Testing and Debugging: After uploading the code to the Arduino, I will test the robot to verify proper operation. I will adjust the code or connections if necessary.
 
 ## Architecture
 
